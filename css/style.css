@@ -181,7 +181,7 @@
 
 /*--Paralex-Start--*/
 .book{
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(/img/main1.png);
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(../img/main1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
