@@ -1,4 +1,9 @@
 /*--main-home-start-*/
+
+.container-fluid{
+    padding: 0px;
+}
+
 /*--Navbar-Start--*/
 .navbar-dark .navbar-nav .nav-link{
     color: rgb(255, 255, 255);
